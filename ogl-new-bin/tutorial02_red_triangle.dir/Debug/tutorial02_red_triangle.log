@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/grand_000/workspaceCpp/ogl-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/grand_000/workspaceCpp/ogl-new-bin/CMakeFiles/generate.stamp is up-to-date.
+  tutorial02.cpp
+  shader.cpp
+  tutorial02_red_triangle.vcxproj -> C:\Users\grand_000\workspaceCpp\ogl-new-bin\Debug\tutorial02_red_triangle.exe
+  tutorial02_red_triangle.vcxproj -> C:/Users/grand_000/workspaceCpp/ogl-new-bin/Debug/tutorial02_red_triangle.pdb (Full PDB)

@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Users/grand_000/workspaceCpp/ogl-master/external/CMakeLists.txt
+C:/cmake/cmake-3.9.3-win32-x86/share/cmake-3.9/Modules/CheckIncludeFile.cmake
+C:/cmake/cmake-3.9.3-win32-x86/share/cmake-3.9/Modules/CheckTypeSize.cmake
+C:/cmake/cmake-3.9.3-win32-x86/share/cmake-3.9/Modules/CheckIncludeFile.cmake
+C:/cmake/cmake-3.9.3-win32-x86/share/cmake-3.9/Modules/CheckIncludeFileCXX.cmake
+C:/cmake/cmake-3.9.3-win32-x86/share/cmake-3.9/Modules/CheckFunctionExists.cmake

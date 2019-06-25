@@ -1,0 +1,16 @@
+﻿  Building Custom Rule C:/Users/grand_000/workspaceCpp/ogl-master/external/bullet-2.81-rev2613/src/LinearMath/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/grand_000/workspaceCpp/ogl-new-bin/external/bullet-2.81-rev2613/src/LinearMath/CMakeFiles/generate.stamp is up-to-date.
+  btAlignedAllocator.cpp
+  btConvexHull.cpp
+  btConvexHullComputer.cpp
+  btGeometryUtil.cpp
+  btPolarDecomposition.cpp
+  btQuickprof.cpp
+C:\Users\grand_000\workspaceCpp\ogl-master\external\bullet-2.81-rev2613\src\LinearMath\btPolarDecomposition.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\grand_000\workspaceCpp\ogl-master\external\bullet-2.81-rev2613\src\LinearMath\btPolarDecomposition.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\grand_000\workspaceCpp\ogl-master\external\bullet-2.81-rev2613\src\LinearMath\btPolarDecomposition.cpp(66): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+  btSerializer.cpp
+  btVector3.cpp
+C:\Users\grand_000\workspaceCpp\ogl-master\external\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(46): warning C4838: conversion from 'int' to 'const unsigned char' requires a narrowing conversion
+C:\Users\grand_000\workspaceCpp\ogl-master\external\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(431): warning C4838: conversion from 'int' to 'const unsigned char' requires a narrowing conversion
+  LinearMath.vcxproj -> C:\Users\grand_000\workspaceCpp\ogl-new-bin\external\bullet-2.81-rev2613\src\LinearMath\Debug\LinearMath.lib

@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Users/grand_000/workspaceCpp/ogl-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/grand_000/workspaceCpp/ogl-new-bin/CMakeFiles/generate.stamp is up-to-date.
+  misc05_picking_slow_easy.cpp
+  shader.cpp
+  controls.cpp
+  texture.cpp
+  objloader.cpp
+  vboindexer.cpp
+  misc05_picking_slow_easy.vcxproj -> C:\Users\grand_000\workspaceCpp\ogl-new-bin\Release\misc05_picking_slow_easy.exe

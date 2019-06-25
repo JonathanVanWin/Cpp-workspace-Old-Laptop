@@ -1,0 +1,22 @@
+/*
+ * Everithing42.cpp
+ *
+ *  Created on: 8/1/2018
+ *      Author: grand_000
+ */
+
+#include "Everithing42.h"
+#include std;
+
+Everithing42::Everithing42() {
+	// TODO Auto-generated constructor stub
+
+}
+
+Everithing42::~Everithing42() {
+	// TODO Auto-generated destructor stub
+}
+int main() {
+	std::cout << "Hello";
+	return 0;
+}

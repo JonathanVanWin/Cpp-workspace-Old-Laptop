@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/grand_000/workspaceCpp/ogl-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/grand_000/workspaceCpp/ogl-new-bin/CMakeFiles/generate.stamp is up-to-date.
+  tutorial05.cpp
+  shader.cpp
+  texture.cpp
+  tutorial05_textured_cube.vcxproj -> C:\Users\grand_000\workspaceCpp\ogl-new-bin\Debug\tutorial05_textured_cube.exe
+  tutorial05_textured_cube.vcxproj -> C:/Users/grand_000/workspaceCpp/ogl-new-bin/Debug/tutorial05_textured_cube.pdb (Full PDB)

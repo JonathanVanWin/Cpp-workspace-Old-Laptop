@@ -1,0 +1,206 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/grand_000/workspaceCpp/ogl-master-bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_0cd74.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.3.409.57025 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 03/10/2017 11:27:35.
+Proyecto "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_0cd74.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_0cd74.dir\Debug\".
+  Creando directorio "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_0cd74.dir\Debug\cmTC_0cd74.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_0cd74.dir\Debug\cmTC_0cd74.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0cd74.dir\Debug\\" /Fd"cmTC_0cd74.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.11.25507.1 para x86
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0cd74.dir\Debug\\" /Fd"cmTC_0cd74.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_0cd74.vcxproj]
+Compilaci¢n del proyecto terminada "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_0cd74.vcxproj" (destinos predeterminados) -- ERROR.
+
+ERROR al compilar.
+
+"C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_0cd74.vcxproj" (destino predeterminado) (1) ->
+(ClCompile destino) -> 
+  C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_0cd74.vcxproj]
+
+    0 Advertencia(s)
+    1 Errores
+
+Tiempo transcurrido 00:00:04.40
+
+
+Determining size of off64_t failed with the following output:
+Change Dir: C:/Users/grand_000/workspaceCpp/ogl-master-bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_432b9.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.3.409.57025 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 03/10/2017 11:28:06.
+Proyecto "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_432b9.dir\Debug\".
+  Creando directorio "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_432b9.dir\Debug\cmTC_432b9.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_432b9.dir\Debug\cmTC_432b9.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _LARGEFILE64_SOURCE=1 /D HAVE_SYS_TYPES_H /D HAVE_STDINT_H /D HAVE_STDDEF_H /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_432b9.dir\Debug\\" /Fd"cmTC_432b9.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c"
+  OFF64_T.c
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.11.25507.1 para x86
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _LARGEFILE64_SOURCE=1 /D HAVE_SYS_TYPES_H /D HAVE_STDINT_H /D HAVE_STDDEF_H /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_432b9.dir\Debug\\" /Fd"cmTC_432b9.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c"
+  
+C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c(19): error C2065: 'off64_t': identificador no declarado [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj]
+C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c(20): error C2065: 'off64_t': identificador no declarado [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj]
+C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c(21): error C2065: 'off64_t': identificador no declarado [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj]
+C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c(22): error C2065: 'off64_t': identificador no declarado [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj]
+C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c(23): error C2065: 'off64_t': identificador no declarado [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj]
+Compilaci¢n del proyecto terminada "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj" (destinos predeterminados) -- ERROR.
+
+ERROR al compilar.
+
+"C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj" (destino predeterminado) (1) ->
+(ClCompile destino) -> 
+  C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c(19): error C2065: 'off64_t': identificador no declarado [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj]
+  C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c(20): error C2065: 'off64_t': identificador no declarado [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj]
+  C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c(21): error C2065: 'off64_t': identificador no declarado [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj]
+  C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c(22): error C2065: 'off64_t': identificador no declarado [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj]
+  C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CheckTypeSize\OFF64_T.c(23): error C2065: 'off64_t': identificador no declarado [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_432b9.vcxproj]
+
+    0 Advertencia(s)
+    5 Errores
+
+Tiempo transcurrido 00:00:03.82
+
+C:/Users/grand_000/workspaceCpp/ogl-master-bin/CMakeFiles/CheckTypeSize/OFF64_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#endif
+
+#define SIZE (sizeof(off64_t))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the function fseeko exists failed with the following output:
+Change Dir: C:/Users/grand_000/workspaceCpp/ogl-master-bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_a0b9b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.3.409.57025 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 03/10/2017 11:28:12.
+Proyecto "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_a0b9b.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_a0b9b.dir\Debug\".
+  Creando directorio "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_a0b9b.dir\Debug\cmTC_a0b9b.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_a0b9b.dir\Debug\cmTC_a0b9b.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseeko /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a0b9b.dir\Debug\\" /Fd"cmTC_a0b9b.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\cmake\cmake-3.9.3-win32-x86\share\cmake-3.9\Modules\CheckFunctionExists.c"
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.11.25507.1 para x86
+  CheckFunctionExists.c
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseeko /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a0b9b.dir\Debug\\" /Fd"cmTC_a0b9b.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\cmake\cmake-3.9.3-win32-x86\share\cmake-3.9\Modules\CheckFunctionExists.c"
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\Debug\cmTC_a0b9b.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/grand_000/workspaceCpp/ogl-master-bin/CMakeFiles/CMakeTmp/Debug/cmTC_a0b9b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/grand_000/workspaceCpp/ogl-master-bin/CMakeFiles/CMakeTmp/Debug/cmTC_a0b9b.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_a0b9b.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: símbolo externo _fseeko sin resolver al que se hace referencia en la función _main [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_a0b9b.vcxproj]
+C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\Debug\cmTC_a0b9b.exe : fatal error LNK1120: 1 externos sin resolver [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_a0b9b.vcxproj]
+Compilaci¢n del proyecto terminada "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_a0b9b.vcxproj" (destinos predeterminados) -- ERROR.
+
+ERROR al compilar.
+
+"C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_a0b9b.vcxproj" (destino predeterminado) (1) ->
+(Link destino) -> 
+  CheckFunctionExists.obj : error LNK2019: símbolo externo _fseeko sin resolver al que se hace referencia en la función _main [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_a0b9b.vcxproj]
+  C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\Debug\cmTC_a0b9b.exe : fatal error LNK1120: 1 externos sin resolver [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_a0b9b.vcxproj]
+
+    0 Advertencia(s)
+    2 Errores
+
+Tiempo transcurrido 00:00:06.93
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: C:/Users/grand_000/workspaceCpp/ogl-master-bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_79c8d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.3.409.57025 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 03/10/2017 11:28:20.
+Proyecto "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_79c8d.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_79c8d.dir\Debug\".
+  Creando directorio "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_79c8d.dir\Debug\cmTC_79c8d.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_79c8d.dir\Debug\cmTC_79c8d.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_79c8d.dir\Debug\\" /Fd"cmTC_79c8d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.11.25507.1 para x86
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_79c8d.dir\Debug\\" /Fd"cmTC_79c8d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'unistd.h': No such file or directory [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_79c8d.vcxproj]
+Compilaci¢n del proyecto terminada "C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_79c8d.vcxproj" (destinos predeterminados) -- ERROR.
+
+ERROR al compilar.
+
+"C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_79c8d.vcxproj" (destino predeterminado) (1) ->
+(ClCompile destino) -> 
+  C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'unistd.h': No such file or directory [C:\Users\grand_000\workspaceCpp\ogl-master-bin\CMakeFiles\CMakeTmp\cmTC_79c8d.vcxproj]
+
+    0 Advertencia(s)
+    1 Errores
+
+Tiempo transcurrido 00:00:03.71
+
+

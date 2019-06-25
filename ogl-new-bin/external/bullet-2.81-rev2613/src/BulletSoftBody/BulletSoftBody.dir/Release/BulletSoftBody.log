@@ -1,0 +1,12 @@
+﻿  Building Custom Rule C:/Users/grand_000/workspaceCpp/ogl-master/external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/grand_000/workspaceCpp/ogl-new-bin/external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/generate.stamp is up-to-date.
+  btSoftBody.cpp
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+  btSoftBodyHelpers.cpp
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+C:\Users\grand_000\workspaceCpp\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(916): warning C4838: conversion from 'unsigned int' to 'const int' requires a narrowing conversion
+  btSoftRigidCollisionAlgorithm.cpp
+  btSoftRigidDynamicsWorld.cpp
+  btSoftSoftCollisionAlgorithm.cpp
+  btDefaultSoftBodySolver.cpp
+  BulletSoftBody.vcxproj -> C:\Users\grand_000\workspaceCpp\ogl-new-bin\external\bullet-2.81-rev2613\src\BulletSoftBody\Release\BulletSoftBody.lib

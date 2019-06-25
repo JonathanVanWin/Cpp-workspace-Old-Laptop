@@ -1,0 +1,13 @@
+16:49:41 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -o SPOJ.exe Prime.o Feynman.o Everithing_42.o 
+Feynman.o: In function `main':
+C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Feynman.cpp:3: multiple definition of `main'
+Prime.o:C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Prime.cpp:3: first defined here
+Everithing_42.o: In function `main':
+C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Everithing_42.cpp:3: multiple definition of `main'
+Prime.o:C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Prime.cpp:3: first defined here
+collect2.exe: error: ld returned 1 exit status
+
+16:49:56 Build Finished (took 15s.726ms)
+

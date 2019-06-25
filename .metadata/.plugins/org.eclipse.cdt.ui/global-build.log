@@ -1,0 +1,257 @@
+21:16:16 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -o SPOJ.exe Feynman.o Everithing42.o 
+g++: error: Feynman.o: No such file or directory
+21:22:29 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -o SPOJ.exe Feynman.o Everithing42.o 
+g++: error: Feynman.o: No such file or directory
+Info: Nothing to build for cppExercises
+21:22:34 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -o SPOJ.exe Feynman.o Everithing42.o 
+g++: error: Feynman.o: No such file or directory
+21:25:13 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -o SPOJ.exe Feynman.o Everithing42.o 
+g++: error: Feynman.o: No such file or directory
+Info: Nothing to build for cppExercises
+21:26:37 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -o SPOJ.exe Feynman.o Everithing42.o 
+g++: error: Feynman.o: No such file or directory
+21:27:17 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -o SPOJ.exe Feynman.o Everithing42.o 
+g++: error: Feynman.o: No such file or directory
+21:27:18 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -o SPOJ.exe Feynman.o Everithing42.o 
+g++: error: Feynman.o: No such file or directory
+21:27:25 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -o SPOJ.exe Feynman.o Everithing42.o 
+g++: error: Feynman.o: No such file or directory
+Info: Nothing to build for cppExercises
+21:27:28 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -o SPOJ.exe Feynman.o Everithing42.o 
+g++: error: Feynman.o: No such file or directory
+21:43:37 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+..\Feynman.cpp: In function 'int main()':
+..\Feynman.cpp:16:3: error: 'cin' is not a member of 'std'
+   std::cin >> num;
+   ^~~
+..\Feynman.cpp:19:3: error: 'cout' is not a member of 'std'
+   std::cout<<num*(num+1)*(2*num+1)/6;
+   ^~~
+22:02:07 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+..\Feynman.cpp: In function 'int main()':
+..\Feynman.cpp:16:3: error: 'cin' is not a member of 'std'
+   std::cin >> num;
+   ^~~
+..\Feynman.cpp:19:3: error: 'cout' is not a member of 'std'
+   std::cout << num * (num + 1) * (2 * num + 1) / 6;
+   ^~~
+Info: Nothing to build for cppExercises
+22:02:15 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+..\Feynman.cpp: In function 'int main()':
+..\Feynman.cpp:16:3: error: 'cin' is not a member of 'std'
+   std::cin >> num;
+   ^~~
+..\Feynman.cpp:19:3: error: 'cout' is not a member of 'std'
+   std::cout << num * (num + 1) * (2 * num + 1) / 6;
+   ^~~
+Info: Nothing to build for cppExercises
+22:03:13 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -o SPOJ.exe Feynman.o Everithing42.o 
+Everithing42.o: In function `main':
+C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Everithing42.cpp:19: multiple definition of `main'
+Feynman.o:C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Feynman.cpp:12: first defined here
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for cppExercises
+Info: Nothing to build for cppExercises
+Info: Nothing to build for cppExercises
+Info: Nothing to build for cppExercises
+22:17:21 **** Rebuild of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -o SPOJ.exe Feynman.o Everithing42.o 
+Everithing42.o: In function `main':
+C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Everithing42.cpp:19: multiple definition of `main'
+Feynman.o:C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Feynman.cpp:12: first defined here
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for cppExercises
+22:21:41 **** Rebuild of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -o SPOJ.exe Feynman.o 
+Info: Nothing to build for cppExercises
+Info: Nothing to build for SPOJ
+Info: Nothing to build for SPOJ
+Info: Nothing to build for cppExercises
+Info: Nothing to build for SPOJ
+Info: Nothing to build for SPOJ
+Info: Nothing to build for SPOJ
+Info: Nothing to build for SPOJ
+22:29:53 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -o SPOJ.exe Feynman.o 
+Info: Nothing to build for SPOJ
+22:31:12 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -o SPOJ.exe Feynman.o 
+22:34:37 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+22:35:19 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+22:35:47 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+22:35:52 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+22:36:59 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+22:37:33 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+22:38:02 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+22:38:38 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+22:38:59 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+22:49:19 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+22:49:44 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Prime.o "..\\Prime.cpp" 
+..\Prime.cpp: In function 'int main()':
+..\Prime.cpp:3:2: error: 'cout' is not a member of 'std'
+  std::cout<<4;
+  ^~~
+22:50:12 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+16:40:30 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+16:42:02 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Prime.o "..\\Prime.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+Info: Nothing to build for cppExercises
+16:42:26 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+..\Everithing42.cpp:8:26: fatal error: Everithing42.h: No such file or directory
+ #include "Everithing42.h"
+                          ^
+compilation terminated.
+16:43:04 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing42.o "..\\Everithing42.cpp" 
+g++ -o SPOJ.exe Prime.o Feynman.o Everithing42.o 
+Feynman.o: In function `main':
+C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Feynman.cpp:2: multiple definition of `main'
+Prime.o:C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Prime.cpp:2: first defined here
+Everithing42.o: In function `main':
+C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Everithing42.cpp:10: multiple definition of `main'
+Prime.o:C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Prime.cpp:2: first defined here
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for cppExercises
+16:48:52 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Feynman.o "..\\Feynman.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Everithing_42.o "..\\Everithing_42.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Prime.o "..\\Prime.cpp" 
+g++ -o SPOJ.exe Prime.o Feynman.o Everithing_42.o Everithing42.o 
+g++: error: Everithing42.o: No such file or directory
+16:49:41 **** Incremental Build of configuration Debug for project SPOJ ****
+Info: Internal Builder is used for build
+g++ -o SPOJ.exe Prime.o Feynman.o Everithing_42.o 
+Feynman.o: In function `main':
+C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Feynman.cpp:3: multiple definition of `main'
+Prime.o:C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Prime.cpp:3: first defined here
+Everithing_42.o: In function `main':
+C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Everithing_42.cpp:3: multiple definition of `main'
+Prime.o:C:\Users\grand_000\workspaceCpp\SPOJ\Debug/../Prime.cpp:3: first defined here
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for cppExercises

@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/grand_000/workspaceCpp/ogl-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/grand_000/workspaceCpp/ogl-new-bin/CMakeFiles/generate.stamp is up-to-date.
+  tutorial09.cpp
+  shader.cpp
+  controls.cpp
+  texture.cpp
+  objloader.cpp
+  vboindexer.cpp
+  tutorial09_vbo_indexing.vcxproj -> C:\Users\grand_000\workspaceCpp\ogl-new-bin\Debug\tutorial09_vbo_indexing.exe
+  tutorial09_vbo_indexing.vcxproj -> C:/Users/grand_000/workspaceCpp/ogl-new-bin/Debug/tutorial09_vbo_indexing.pdb (Full PDB)

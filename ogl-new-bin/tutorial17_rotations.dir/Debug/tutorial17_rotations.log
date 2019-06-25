@@ -1,0 +1,11 @@
+﻿  Building Custom Rule C:/Users/grand_000/workspaceCpp/ogl-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/grand_000/workspaceCpp/ogl-new-bin/CMakeFiles/generate.stamp is up-to-date.
+  tutorial17.cpp
+  shader.cpp
+  controls.cpp
+  texture.cpp
+  objloader.cpp
+  vboindexer.cpp
+  quaternion_utils.cpp
+  tutorial17_rotations.vcxproj -> C:\Users\grand_000\workspaceCpp\ogl-new-bin\Debug\tutorial17_rotations.exe
+  tutorial17_rotations.vcxproj -> C:/Users/grand_000/workspaceCpp/ogl-new-bin/Debug/tutorial17_rotations.pdb (Full PDB)

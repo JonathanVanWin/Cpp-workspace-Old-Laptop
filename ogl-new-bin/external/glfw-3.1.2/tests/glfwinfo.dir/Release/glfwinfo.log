@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/grand_000/workspaceCpp/ogl-master/external/glfw-3.1.2/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/grand_000/workspaceCpp/ogl-new-bin/external/glfw-3.1.2/tests/CMakeFiles/generate.stamp is up-to-date.
+  glfwinfo.c
+  getopt.c
+  glfwinfo.vcxproj -> C:\Users\grand_000\workspaceCpp\ogl-new-bin\external\glfw-3.1.2\tests\Release\glfwinfo.exe

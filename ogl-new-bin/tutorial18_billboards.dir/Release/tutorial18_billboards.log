@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/grand_000/workspaceCpp/ogl-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/grand_000/workspaceCpp/ogl-new-bin/CMakeFiles/generate.stamp is up-to-date.
+  tutorial18_billboards.cpp
+  shader.cpp
+  texture.cpp
+  controls.cpp
+C:\Users\grand_000\workspaceCpp\ogl-master\tutorial18_billboards_and_particles\tutorial18_billboards.cpp(200): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  tutorial18_billboards.vcxproj -> C:\Users\grand_000\workspaceCpp\ogl-new-bin\Release\tutorial18_billboards.exe
